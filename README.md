@@ -1,2 +1,3 @@
 # Language-translation-with-transformer-model
-English - French Translator using Transformer with Tensorflow.
+### English - French Translator using Transformer with Tensorflow.
+![language](../language.jpg)
