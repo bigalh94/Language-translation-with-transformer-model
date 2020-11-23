@@ -16,6 +16,9 @@ This project was created using Google Colab. All of the required libraries are i
 
 ## Resources
 [Attention is all you need](https://arxiv.org/abs/1706.03762) - The paper that started it all
+
 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - Blog by Jay Alammar
+
 [Transformer model for language understanding](https://www.tensorflow.org/tutorials/text/transformer) - Tensorflow Tutorial
+
 [What Are Transformer Models in Machine Learning?](https://lionbridge.ai/articles/what-are-transformer-models-in-machine-learning/) -Blog by Rahul Agarwal
